@@ -1,6 +1,6 @@
 ### Hey there! 👋 hello! Good to see you!
 
-My name's Callum, and I'm a 15 year old somewhat self-taught Kotlin/Java developer!
+My name's Callum, and I'm a 16 year old somewhat self-taught Kotlin/Java developer!
 
 There's no point in me waffling on for hours and hours (which I have a tendency to do quite often), so I'm just gonna give you some things to look at.
 
