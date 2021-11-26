@@ -8,7 +8,7 @@ Most of my time these days is spent working on <a href="https://github.com/Krypt
 working on porting plugins over to my platform, such as <a href="https://github.com/KryptonMC/LuckPerms">LuckPerms</a> and
 <a href="https://github.com/NEZNAMY/TAB">TAB</a>.
 
-##### Contact
+#### Contact
 
 If you need to reach out to me, I recommend doing so using Discord. My Discord username is `BomBardyGamer#2274`.
 
