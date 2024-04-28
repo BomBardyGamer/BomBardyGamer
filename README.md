@@ -1,16 +1,15 @@
 ### Hey there! I see you've come to my GitHub page! 👋
 
-My name's Callum, and I'm a 18 year old somewhat self-taught Kotlin/Java developer! I don't have that many personal projects
+My name's Callum, and I'm a 19 year old somewhat self-taught Java developer! I don't have that many personal projects
 because I spend most of my time making contributions to other open-source projects, as can be seen by my GitHub stats, but
 I do make a few personal projects every now and again.
 
-Most of my time these days is spent working on <a href="https://github.com/KryptonMC/Krypton">Krypton</a>, which includes
-working on porting plugins over to my platform, such as <a href="https://github.com/KryptonMC/LuckPerms">LuckPerms</a> and
-<a href="https://github.com/NEZNAMY/TAB">TAB</a>.
+Most of my time these days is spent working on
+<a href="https://github.com/EmortalMC">EmortalMC</a> and <a href="https://github.com/hollow-cube">Hollow Cube</a>.
 
 #### Contact
 
-If you need to reach out to me, I recommend doing so using Discord. My Discord username is `BomBardyGamer#2274`.
+If you need to reach out to me, I recommend doing so using Discord. My Discord username is `bombardygamer`.
 
 You can also email me if you want it to be a bit more formal. My email address is `callum.seabrook@prevarinite.com`.
 
